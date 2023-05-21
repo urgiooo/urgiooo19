@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<title>PHOTO</title>
+</head>
+<body style = background-image:url("col.jpg");>
+<div><center><b style= "color:yellow;" >YOU CAN PICK AND SAVE AND TELL ME WHAT HAIRCUT DO YOU WANT :)</b></center></div>
+<hr>
+</body>
+</html>
